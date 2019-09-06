@@ -78,8 +78,8 @@ This is my first PHP project. I think it's very suitable for PHP beginners. And 
 ```
 git clone  https://github.com/tongshi049/TFT-app-php.git
 ```
-- Open XAMPP control panel, then open `Apache(httpd.conf)`, modify the directory in `DocumentRoot " "` and 
-`<Directory " ">` to the current project foler
+- Open XAMPP control panel, then open `Apache(httpd.conf)` file, modify the directory in `DocumentRoot " "` and 
+`<Directory " ">` to the current project folder
 
 - Start `Apache` and `MySQL` services, and open `localhost` in your browser
 
