@@ -20,7 +20,7 @@ This is my first PHP project. I think it's very suitable for PHP beginners. And 
 
 1. **Project conclustion**:
 <div>
-  <img src="./img-readme/tft-conclu.png" alt="prject_conclustion" width="70%" height="70%">
+  <img src="./img-readme/tft-conclu.png" alt="prject_conclustion" width="50%" height="50%">
 </div>
 <br> 
 
